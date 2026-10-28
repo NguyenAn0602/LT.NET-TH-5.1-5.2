@@ -2,10 +2,10 @@
 
 ## I. THÔNG TIN SINH VIÊN
 
-- **Họ và tên:** Nguyễn Tiến Đạt
-- **Mã số sinh viên:** 24810320260
+- **Họ và tên:** Nguyễn Văn An
+- **Mã số sinh viên:** 24810320020
 - **Lớp học phần:** Lập trình .NET - Mã Lớp: D19QTANM1
-- **Link Repository:** https://github.com/tiendat260806/On_tap_Winform_28_10.git
+- **Link Repository:** https://github.com/NguyenAn0602/LT.NET-TH-5.1-5.2.git
 
 ---
 
